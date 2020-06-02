@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "John"
+    },
+    {
+      "id": 2,
+      "name": "Eric"
+    }
+  ],
+  "document": [
+    {
+      "id": 1,
+      "title": "Title 1"
+    },
+    {
+      "id": 2,
+      "title": "Title 2"
+    }
+  ]
+}
